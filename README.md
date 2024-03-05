@@ -15,3 +15,5 @@ The client wants to create a Road Dashboard for years 2021 and 2022 so that they
 - Relation Between Casualties by Area / Location & by Day/Night
 # Dataset 
 The data used is road accident data of uk having 3.07 million rows and 21 fields for the years 2021 and 2022. Data is stored in a single table.
+![Screenshot (103)](https://github.com/Aman20kumarz/ExcelDashboard/assets/148451747/5ca37dab-9380-4049-88ce-1e5126dad2c9)
+
